@@ -70,7 +70,8 @@ body {
 
 .main-color-bg {
   background-color: #77b659 !important;
-  border-color: #ffffff !important;  
+  border-color: #ffffff !important;
+  color: #ffffff !important;
 }
 
 @media (max-width: 767px) {
