@@ -113,8 +113,12 @@ body {
     color: #333333;
 }
 
-/* Progress Bar */
+/* Progress Bars */
 .progress-bar {
     background: #333333;
     color: #ffffff;
+}
+
+.dash-box {
+    text-align: center;
 }
