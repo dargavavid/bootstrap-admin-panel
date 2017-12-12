@@ -88,3 +88,15 @@ body {
     background-color: #ffffff;
   }
 }
+
+/* Header */
+#header {
+    background: #333333;
+    color: #ffffff;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+#header .create {
+    padding-top: 20px;
+}
