@@ -111,3 +111,9 @@ body {
 .breadcrumb a {
     color: #333333;
 }
+
+/* Progress Bar */
+.progress-bar {
+    background: #333333;
+    color: #ffffff;
+}
