@@ -100,3 +100,14 @@ body {
 #header .create {
     padding-top: 20px;
 }
+
+/* Breadcrumb */
+.breadcrumb {
+    background: #cccccc;
+    color: #333333;
+
+}
+
+.breadcrumb a {
+    color: #333333;
+}
